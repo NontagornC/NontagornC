@@ -2,6 +2,8 @@
 
 
 ### SKILL AND TOOL
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NontagornC&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
