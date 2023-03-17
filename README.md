@@ -3,7 +3,7 @@
 
 ### SKILL AND TOOL
 
-[![GitHub WidgetBox](https://github.com/NontagornC&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NontagornC&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 
 <!--
