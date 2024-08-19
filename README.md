@@ -2,7 +2,7 @@
 
 ### SKILL AND TOOL
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,react,sass,tailwind,bootstrap,vite,vscode,git,github&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,dotnet,react,redux,nextjs,angular,vite,vitest,jest,materialui,tailwind,sass,bootstrap,vscode,git,github,azure,docker,figma,nodejs,npm,yarn,postgres,postman,rider,vscode&theme=dark)](https://skillicons.dev)
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=NontagornC&data=repositories,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
